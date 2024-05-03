@@ -10,7 +10,7 @@ export function App() {
   //const [isClickedLastNumber, setIsClickedLastNumber] = useState(false);
 
   // array inicial
-  const [grid, setGrid] = useState([
+  const [grid] = useState([
     [2, 1, 0, 3],
     [1, 2, 0, 4],
     [4, 3, 5, 5],
